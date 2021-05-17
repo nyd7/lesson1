@@ -13,6 +13,7 @@ clemet['date'] = "27.05.2019"
 
 print(len(clemet))
 
+
 '''
 Создайте словарь:
 {"city": "Москва", "temperature": "20"}

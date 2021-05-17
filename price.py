@@ -6,7 +6,6 @@ chek =format_price(56.24)
 print(chek)
 
 
-
 '''
 Создайте в редакторе файл price.py
 Создайте функцию format_price, которая принимает один аргумент price
